@@ -8,7 +8,7 @@ of the project is as follows:
 
 1. **input:** A directory consists of various crossword puzzle `.txt` files 
 with respective word dictionaries in `.txt` format which serves as an input
-   to the dirver class.
+   to the driver class.
    
 
 2. **CrossWordSolver.py:** It is a `python script` which consist of the class 
