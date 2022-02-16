@@ -53,16 +53,19 @@ requirement.
 
 ### INSTRUCTIONS TO RUN THE DRIVER CLASS
 
+1. On the local machine clone the github repository using command:
+`git clone https://github.com/anmolsrivastava97/CrossWord-Solver.git`
 
-1.  `main.py` is the driver class which requires two input arguments i.e.
+
+2.  `main.py` is the driver class which requires two input arguments i.e.
 `-puzzle_path` and `-word_dictionary_path`
     
 
-2. After choosing the appropriate crossword puzzle and word dictionary file
+3. After choosing the appropriate crossword puzzle and word dictionary file
 pass the command : `python3 main.py input/puzzle_1.txt input/words.txt`
  
   
-3. In the above command path arguments can be changed based on local path
+4. In the above command path arguments can be changed based on local path
 of crossword puzzle text and word test file.
    
 <hr>
